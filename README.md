@@ -1,5 +1,7 @@
 # Basic VueJs Project
 
+A simple skeleton project for VueJs
+
 ## Project setup
 ```
 npm install
